@@ -1,0 +1,189 @@
+body
+{
+	background-color:#8A6E53;
+	margin: 0;
+	background-repeat: no-repeat;
+}
+
+.wrapper
+{
+	height: auto;
+	width: 900px;
+	margin: 0 auto;
+	background-color: white;
+	
+}
+
+.header
+{
+	color: #FFFFFF;
+	background-color: #999999;
+	height: 120px;
+	text-align: center;
+	font-size: 30px;
+	
+		
+}
+.content
+{
+	height:500px;
+
+}
+
+.footer
+{    
+	background-color: #999999;
+	width: 100%;
+	height: 45px;
+	color: black;
+	text-align: center;
+	font-size: 20px;
+	padding-top: 10px;
+	
+}
+.menu
+{
+	padding-left: 10px auto;
+	height: 35px;
+}
+/**.menu ul
+{position:absolute;
+margin:0px;
+padding:0px;
+visibility:hidden;
+color:#000;
+}**/
+
+.area1
+{
+	color: black;
+	text-align: center;
+	font-size: 18px;
+	padding: 1px;
+
+}
+.form1
+{
+	font-size: 20px;
+	text-align: left;
+}
+#tb{
+	height: 150px;
+	width: 100%;
+}
+.textarea1
+{
+	height: 90px; 
+	resize: none; 
+	width: 496px;
+
+}
+.textarea2
+{
+	height: 90px; 
+	resize: none; 
+	width: 300px;
+
+}
+.textarea3
+{
+	height: 45px; 
+	resize: none; 
+	width: 200px;
+}
+.table
+{
+	height: 35px;
+	width: 100%;
+	padding-left: 20px;
+}
+.table1
+{
+	width: 80%;
+}
+.table2
+{
+	width: 60%;
+	height: 270px;
+}
+input
+{
+	height: 30px;
+	width: 200px;
+}
+input[type="submit"]
+{
+	height: 30px;
+	width: 100px;
+}
+select
+{
+	height: 30px;
+	width: 200px;
+}
+a
+{
+	color: black;
+	text-decoration: none;
+}
+.picha
+{
+	width: 120px;
+	height: 80px;
+}
+.frame
+{
+	height: 120px;
+	width: 800px;
+}
+.search
+{
+	margin: 0px auto;
+	width: 80%;
+	border-spacing: 0px;
+
+}
+.search tr th
+{
+	font-size: 15px;
+}
+.report
+{
+	margin: 0 auto;
+	height: 250px;
+	width: 70%;
+	border-spacing: 0px;
+}
+.report tr td 
+{
+	border: 0px solid black;
+	background-color:#CFCFCF;
+}
+.t
+{
+	width: 50%;
+	height: auto;
+}
+.t tr
+{
+	height: 40px;
+}
+.t tr td
+{
+	padding-left: 20px;
+	border-spacing: 0px;
+}
+.f
+{
+	height: 300px;
+	
+}
+.crimepicha
+{
+	height: 115;
+	width: 100;
+}
+.content21
+{
+	height: auto;
+}
